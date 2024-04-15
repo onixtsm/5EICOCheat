@@ -6,3 +6,10 @@
 **/latex/source.pyg
 **/latex/source.out
 **/latex/source.dvi
+./latex/source.aux
+./latex/source.log
+./latex/source.dvi
+./latex/source.pdf
+./latex/source.pyg
+./latex/source.out
+./latex/source.dvi
